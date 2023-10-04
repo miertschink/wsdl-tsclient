@@ -1,6 +1,6 @@
 {
   "name": "wsdl-typescript-client",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Generate typescript soap client with typescript definitons from WSDL file.",
   "main": "dist/src/index.js",
   "bin": {
@@ -60,7 +60,7 @@
     "camelcase": "^6.3.0",
     "chalk": "^4.1.1",
     "sanitize-filename": "^1.6.3",
-    "soap": "^0.43.0",
+    "soap": "^1.0.0",
     "supports-color": "^8.1.1",
     "yargs": "^16.2.0"
   }
