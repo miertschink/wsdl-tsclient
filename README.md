@@ -5,7 +5,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/dderevjanik/wsdl-tsclient/badge.svg)](https://snyk.io/test/github/dderevjanik/wsdl-tsclient)
 [![npm-version](https://img.shields.io/npm/v/wsdl-tsclient)](https://npmjs.com/package/wsdl-tsclient)
 
-This is a form of the [wsdl-tsclient](https://github.com/dderevjanik/wsdl-tsclient) by dderevjanik. 
+This is a fork of the [wsdl-tsclient](https://github.com/dderevjanik/wsdl-tsclient) by dderevjanik. 
 I have forked it to fix a dependency that I needed for my project.
 Please feel free to contribute here as the original project doesn't seem to be maintained anymore.
 
